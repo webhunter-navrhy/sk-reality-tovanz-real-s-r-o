@@ -1,0 +1,21 @@
+# PREDAJ - 2-izbový byt - Jurkovičova, Klokočina
+
+> Spoločnosť Findigo Vám ponúka na predaj 2-izbový byt vo vyhľadávanej a pokojnej lokalite Klokočina v Nitre. Byt je vhodný nielen na vlastné bývanie, ale predstavuje aj zaujímavú investičnú príležitosť. Veľkou výhodou je, že byt má dlhodobo spoľahlivých a overených nájomníkov, ktorí by v prípade záujmu radi v nájme pokračovali.
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 2-izbový
+- Plocha: 63.5 m²
+- Podlaží: 4
+- Stav: čiastočne prerobený
+- Vlastnictví: osobné
+- Lokalita: Nitra
+- Cena: 172 000 €
+
+## Kontakt
+- Makléř: Viktória Molnárova
+- Telefon: +421948139481
+- E-mail: viktoria.molnarova@findigo.sk
+- Kancelář: TOVANZ real s.r.o.
+- Web kanceláře: https://findigo.sk/
